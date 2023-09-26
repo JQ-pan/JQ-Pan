@@ -42,3 +42,16 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New York City.
+
+- :telescope: I am a Software Engineer and contribute to frontend and backend for building web applications.
+
+- :seedling: Exploring different technologies.
+
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jiong_Qi-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/jiongqi)
+---
+
+### :hammer_and_wrench: Languages and Tools :
