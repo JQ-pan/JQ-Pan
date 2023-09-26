@@ -49,11 +49,8 @@ Here are some ideas to get you started:
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New York City.
 
 - :telescope: I am a Software Engineer and contribute to frontend and backend for building web applications.
-
 - :seedling: Exploring different technologies.
-
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jiong_Qi-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/jiongqi) [![Gmail Badge](https://img.shields.io/badge/-jiongqipan@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:jiongqipan@gmail.com)
 ---
 
@@ -73,7 +70,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Postgresql" **alt="Postgresql" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoBD" **alt="MongoBD" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="GoogleAPI" **alt="GoogleAPI" width="40" height="40">
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="GoogleAPI" **alt="GoogleAPI" width="40" height="40"> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="jQuery" **alt="jQuery" width="40" height="40">
 </div>
 
