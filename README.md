@@ -23,6 +23,9 @@ Here are some ideas to get you started:
   <a href="http://linkedin.com/in/jiongqi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="mailto:jiongqipan@gmail.com">
+    <img src="https://img.shields.io/badge/-jiongqipan@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
   <!-- <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
@@ -51,7 +54,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jiong_Qi-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/jiongqi)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jiong_Qi-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/jiongqi) [![Gmail Badge](https://img.shields.io/badge/-jiongqipan@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:jiongqipan@gmail.com)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -61,17 +64,21 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" title="Ruby" **alt="Ruby" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="Rails" **alt="Rails" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original-wordmark.svg" title="RSpec" **alt="RSpec" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Postgresql" **alt="Postgresql" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoBD" **alt="MongoBD" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="GoogleAPI" **alt="GoogleAPI" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="jQuery" **alt="jQuery" width="40" height="40">
 </div>
 
 ---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JQ-Pan&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JQ-Pan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
